@@ -20,31 +20,31 @@ This NewApp contains Eight pages depending upon the category of the news being d
 
 1) HomePage - This is the home page where you can see the latest News from different categories
 
-![Home Page](DailyDoseImages\Home.png)
+![Home Page](DailyDoseImages/Home.png)
 
 2) Business - This Page shows the business related News
 
-![Business text](DailyDoseImages\Business.png)
+![Business text](DailyDoseImages/Business.png)
 
 3) Entertainment - Displaying entertainment related News
 
-![Entertainment Page](DailyDoseImages\Entertainment.png)
+![Entertainment Page](DailyDoseImages/Entertainment.png)
 
 4) Health - Displays health-related News
 
-![Health Page](DailyDoseImages\Health.png)
+![Health Page](DailyDoseImages/Health.png)
 
 5) Science & Technology - Shows the science related News
 
-![Science Page](DailyDoseImages\Science.png)
+![Science Page](DailyDoseImages/Science.png)
 
 6) Sports - For displaying sports-related News
 
-![Sports Page](DailyDoseImages\Sports.png)
+![Sports Page](DailyDoseImages/Sports.png)
 
 7) Technology - Shows the technology related News
 
-![Technology Page](DailyDoseImages\Technology.png)
+![Technology Page](DailyDoseImages/Technology.png)
 
 
 To run a react app we need to give the following command. 

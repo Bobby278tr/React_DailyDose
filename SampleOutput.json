@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Video: Kamala Harris says she is 'scared as heck' Trump may win 2024 | CNN Politics",
+            "description": "Vice President Kamala Harris said “we should all be scared” about the possibility of former President Donald Trump winning the White House in 2024 during an appearance on ABC’s “The View.”",
+            "url": "https://www.cnn.com/videos/politics/2024/01/18/kamala-harris-scared-over-trump-2024-win-cnc-vpx.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240118095751-kamala-harris-on-the-view.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-01-18T15:09:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-huffington-post",
+                "name": "The Huffington Post"
+            },
+            "author": "Ben Blanchet",
+            "title": "Jasmine Crockett Uses Rihanna To Slam Republicans In Scathing Takedown",
+            "description": "The Texas Democrat gave a shoutout to the pop icon as she took aim at the GOP’s “performative politics” in a wicked rant.",
+            "url": "https://www.huffpost.com/entry/jasmine-crockett-republicans-us-mexico-border_n_65a8c6d2e4b041f1ce64bcff",
+            "urlToImage": "https://img.huffingtonpost.com/asset/65a8df1f2200005400fb0491.jpg?cache=KgfEfqnFsc&ops=1200_630",
+            "publishedAt": "2024-01-18T08:31:47Z",
+            "content": "Rep. Jasmine Crockett (D-Texas) name-dropped Rihanna as she jokingly applauded Republicans for putting on quite a show at a House Oversight Committee hearing on Wednesday.\r\nThe Texas Democrat, at a h… [+4260 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Video: Barkley bursts out laughing over Haley's 'racist country' remark | CNN Politics",
+            "description": "Charles Barkley gives his thoughts on Republican presidential candidate Nikki Haley claiming that the US ‘has never been a racist country’ during a Fox News interview.",
+            "url": "https://www.cnn.com/videos/politics/2024/01/18/charles-barkley-nikki-haley-racist-country-sot-kc-vpx.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240117223852-barkley-haley-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-01-18T04:27:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Trump called Haberman. Hear what she said about it | CNN Politics",
+            "description": "New York Times reporter and CNN senior political analyst Maggie Haberman details a phone call she had recently with former president Donald Trump.",
+            "url": "https://www.cnn.com/videos/politics/2024/01/18/haberman-trump-phone-call-kc-vpx.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240117224852-maggie-haberman-kc.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-01-18T03:50:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Graphics",
+            "title": "Reuters Graphics - Charts, Maps, Interactive Graphics and Videos",
+            "description": "The latest world news - politics, sports, culture, science and environment - from our graphics journalists in Singapore, Bangalore, London and New York.",
+            "url": "https://www.reuters.com/graphics/",
+            "urlToImage": "https://www.reuters.com/graphics/cdn/img/home.jpg",
+            "publishedAt": "2020-12-21T00:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": null,
+            "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+            "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+            "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+            "publishedAt": "2019-11-13T04:41:00Z",
+            "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+        }
+    ]
+}

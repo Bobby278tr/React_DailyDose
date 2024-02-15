@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React_DailyDose/static/css/main.f855e6bc.css",
+    "main.js": "/React_DailyDose/static/js/main.a1d5d3fe.js",
+    "static/js/787.6643f1c0.chunk.js": "/React_DailyDose/static/js/787.6643f1c0.chunk.js",
+    "static/media/loading.gif": "/React_DailyDose/static/media/loading.87058a8ea92b13a7888c.gif",
+    "index.html": "/React_DailyDose/index.html",
+    "main.f855e6bc.css.map": "/React_DailyDose/static/css/main.f855e6bc.css.map",
+    "main.a1d5d3fe.js.map": "/React_DailyDose/static/js/main.a1d5d3fe.js.map",
+    "787.6643f1c0.chunk.js.map": "/React_DailyDose/static/js/787.6643f1c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a1d5d3fe.js"
+  ]
+}
